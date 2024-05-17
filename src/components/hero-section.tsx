@@ -13,18 +13,19 @@ const HeroSection = () => {
           alt={"profile"}
           className="w-36 h-36 border-white border-4 object-cover object-top rounded-full"
         />
-        <div className="mt-10">
+        <div className="mt-16">
           <a className="text-4xl ">Hi, I am Rajeshwory</a>
           <WavingHandIcon className="text-4xl text-yellow-500 ml-4" />
         </div>
-        <a className="text-3xl mt-1">
-          I am a frontend developer based in Kathmandu, Nepal.
-        </a>
+        <div className="text-3xl mt-10">
+          <a>I am a frontend developer based in Kathmandu, Nepal.</a>
+        </div>
+
         <Button
           variant="contained"
           size="large"
           color="secondary"
-          className="mt-5"
+          className="mt-10"
         >
           View Resume
         </Button>

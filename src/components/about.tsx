@@ -7,7 +7,7 @@ const About = () => {
         <div className="text-center">
           <a className="text-5xl font-bold">About Me</a>
         </div>
-        <div className="w-full flex flex-row mt-5">
+        <div className="w-full flex flex-row mt-10">
           <div className="w-1/2 flex flex-col justify-center items-center">
             <label>
               In the dynamic world of web development, I stand as a dedicated

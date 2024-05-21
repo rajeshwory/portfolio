@@ -26,6 +26,7 @@ const HeroSection = () => {
           size="large"
           color="secondary"
           className="mt-10"
+          href="resume.pdf"
         >
           View Resume
         </Button>

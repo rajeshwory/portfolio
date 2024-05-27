@@ -10,8 +10,18 @@ const Header = () => {
           <a className="hover:cursor-pointer hover:text-blue-300" href="#about">
             About
           </a>
-          <a className="hover:cursor-pointer hover:text-blue-300">Projects</a>
-          <a className="hover:cursor-pointer hover:text-blue-300">Skills</a>
+          <a
+            className="hover:cursor-pointer hover:text-blue-300"
+            href="#projects"
+          >
+            Projects
+          </a>
+          <a
+            className="hover:cursor-pointer hover:text-blue-300"
+            href="#skills"
+          >
+            Skills
+          </a>
         </div>
         {/* icon section */}
         <div className="flex gap-10 justify-end">

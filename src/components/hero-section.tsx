@@ -9,7 +9,7 @@ const HeroSection = () => {
         <img
           src="profile.jpg"
           alt={"profile"}
-          className="w-36 h-36 border-white border-4 object-cover object-top rounded-full"
+          className="w-40 h-40 border-white border-4 object-cover object-top rounded-full"
         />
         <div className="mt-16">
           <a className="text-4xl ">Hi, I am Rajeshwory</a>

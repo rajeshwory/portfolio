@@ -23,9 +23,9 @@ const About = () => {
             <br />
             <label>
               I am also a devoted nature lover. Immersed in the embrace of
-              nature's beauty,I cherish every moment spent exploring the great
+              nature&apos;s beauty,I cherish every moment spent exploring the great
               outdoors, from the majestic mountains to the serene forests and
-              the mesmerizing depths of the riversWhether hiking through rugged
+              the mesmerizing depths of the rivers. Whether hiking through rugged
               terrain, capturing the ethereal beauty of a sunrise through my
               lens, or simply basking in the symphony of bird songs, I am
               endlessly captivated by the intricacies of the natural world. My

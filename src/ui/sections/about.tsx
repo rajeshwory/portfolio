@@ -4,16 +4,17 @@ import React from "react";
 import { motion } from "framer-motion";
 import { SectionHeading } from "@/ui/components/section-heading";
 import { aboutContent } from "@/data/profile";
+import { ArrowRight } from "lucide-react";
 
-/**
- * About Section
- * Information about passions and interests
- */
 export const About: React.FC = () => {
   return (
     <section id="about" className="py-20 bg-gray-50">
       <div className="container-custom">
-        <SectionHeading subtitle="Get to know me better">
+        <SectionHeading 
+         subtitle="More about me" 
+         subtitleLink="/about"
+         subtitleIcon={<ArrowRight className="w-4 h-4" />}
+        >
           About Me
         </SectionHeading>
 

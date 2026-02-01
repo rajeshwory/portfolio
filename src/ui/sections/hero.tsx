@@ -26,7 +26,7 @@ export const Hero: React.FC = () => {
             className="mb-8"
           >
             <Image
-              src="avatar.png"
+              src="/avatar.png"
               alt={profile.name}
               width={200}
               height={200}

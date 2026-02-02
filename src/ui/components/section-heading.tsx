@@ -40,7 +40,7 @@ export const SectionHeading: React.FC<SectionHeadingProps> = ({
          {subtitleLink ? (
            <Link
              href={subtitleLink}
-             className="text-gray-400 text-lg max-w-2xl mx-auto inline-flex items-center gap-2 hover:text-primary transition-colors cursor-pointer underline decoration-dotted underline-offset-4"
+             className="text-lg max-w-2xl mx-auto inline-flex items-center gap-2 text-primary transition-colors cursor-pointer underline decoration-dotted underline-offset-4"
            >
              {subtitle}
              {subtitleIcon && subtitleIcon}
